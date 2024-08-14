@@ -36,21 +36,27 @@ This project is to create a visualization or series of visualizations that devel
 # 🔑 Key Takeaways    
 
 1. Low Hiring Rates for Women at Senior Levels:
+
 The hiring rate for women at the executive level is only 12.5%, with 87.5% being men. This indicates that the entry point for women at this level is significantly lower, making it challenging to achieve gender balance.
 
 2. Limited Promotion Opportunities for Women:
+
 The promotions data shows that the percentage of women promoted at the executive level is also low. The pipeline for women in leadership roles might be weak, which impacts the likelihood of women advancing to executive positions.
 
 3. Longer Tenure in Lower Levels for Women:
+
 Women seem to spend a longer time in lower-level positions before getting promoted. The average time spent in job levels after FY20 promotions indicates that women generally stay longer in their roles compared to men before moving up, which could slow their progression to executive levels.
 
 4. High Turnover Rate Among Women:
+
 The turnover rate for women, particularly in middle management (e.g., Senior Officers), appears to be higher. This could indicate challenges in retaining women as they advance in their careers, reducing the number of women available for promotion to executive roles.
 
 5. Stagnant Executive Gender Balance:
+
 The "Executive split (FY20)" shows that only 12.5% of executives were women, which increased slightly to 15.8% in FY21. Although there is some progress, it is minimal, indicating persistent challenges in achieving gender balance.
 
 6. Exclusive Male Executive Hires and Promotions:
+
 The "Executive Hires (FY20)" and "Promotion to Executive (FY20)" charts indicate that 100% of executive hires and promotions were men. This complete lack of female representation in these areas is a significant barrier to improving gender diversity at the executive level.
 
 
